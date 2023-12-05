@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">munchbud</string>
+    <string name="munchbudd">MunchBudd</string>
+    <string name="your_favorite_discount_buddy">Your favorite discount buddy</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+</resources>
